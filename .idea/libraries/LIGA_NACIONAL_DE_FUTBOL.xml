@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LIGA_NACIONAL_DE_FUTBOL">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/LIGA_NACIONAL_DE_FUTBOL.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
